@@ -1,1 +1,1 @@
-# PRO-C88-SPECTAGRAM-STAGE-8
+# ST-88-Solution
